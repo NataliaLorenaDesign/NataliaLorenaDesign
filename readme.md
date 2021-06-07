@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**NataliaLorenaDesign/NataliaLorenaDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**NataliaLorenaDesign/NataliaLorenaDesign** 
+###i am just a graphic designer trying to do do some code without success# a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
