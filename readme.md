@@ -7,11 +7,13 @@ _I'm a Graphic Designer_
 - it's static with little CSS.
 - still making changes.
 ***
-> You can use this website code but not the images because they are personal copyrighted work.
+> This repository is a simple static web page.
 
 > Feel free to make any suggestions, i would like to hear from you.
 
 > I'm still learning about web design, this project it's far to be done and has some flaws I'm working to fix.
+
+> You can not use the images of the website.
 
 
 This text is written while during the last changes of the project, i will update it as soon as posible.
